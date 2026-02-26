@@ -3,7 +3,7 @@
 ###
 
 <div align="left">
-  <img height="64" src="https://i.postimg.cc/k53zdTvV/Hithere_Im_Pastelito_Hithere_Im_Pastelito_Hithere_Im_Pas.png"  />
+  <img height="55" src="https://i.postimg.cc/k53zdTvV/Hithere_Im_Pastelito_Hithere_Im_Pastelito_Hithere_Im_Pas.png"  />
 </div>
 
 ###
