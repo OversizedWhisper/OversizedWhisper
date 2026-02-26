@@ -39,6 +39,7 @@
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="25" alt="illustrator logo"  />
 </div>
+
 ###
 
 <h5 align="right">Page made to try some coding, just to see if it works properly ^. .^₎ฅ</h5>
