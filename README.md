@@ -1,9 +1,9 @@
-<img align="left" height="200" src="https://i.pinimg.com/originals/e2/9d/91/e29d916cf40ade4cf03af70266555939.gif"  />
+<img align="left" height="190" src="https://i.pinimg.com/originals/e2/9d/91/e29d916cf40ade4cf03af70266555939.gif"  />
 
 ###
 
 <div align="left">
-  <img height="55" src="https://i.postimg.cc/k53zdTvV/Hithere_Im_Pastelito_Hithere_Im_Pastelito_Hithere_Im_Pas.png"  />
+  <img height="60" src="https://i.postimg.cc/k53zdTvV/Hithere_Im_Pastelito_Hithere_Im_Pastelito_Hithere_Im_Pas.png"  />
 </div>
 
 ###
